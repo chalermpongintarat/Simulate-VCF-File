@@ -1,2 +1,2 @@
-# Generate-VCF-File
+# Simulate-VCF-File
 Part of PharmVIP
